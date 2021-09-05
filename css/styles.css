@@ -10205,7 +10205,7 @@ body {
   position: relative;
   width: 100%;
   height: auto;
-  min-height: 35rem;
+  min-height: 100vh;
   padding: 15rem 0;
   background:  url("../assets/img/stqm-cs.png");
   background-position: center;
