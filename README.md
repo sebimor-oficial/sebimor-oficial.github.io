@@ -1,1 +1,0 @@
-# Sebimor Website
