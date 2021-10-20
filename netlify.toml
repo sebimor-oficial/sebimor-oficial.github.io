@@ -1,0 +1,7 @@
+[build]
+publish = "public"
+command = "./stackbit-build.sh"
+[[headers]]
+    for = "/*"
+    [headers.values]
+        X-Frame-Options = "DENY"
