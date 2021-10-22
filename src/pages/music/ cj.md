@@ -43,6 +43,6 @@ seo:
     - name: 'twitter:image'
       value: images/hqp.jpg
       relativeUrl: true
-template: video-post
+template: music-post
 ---
 `youtube: https://www.youtube.com/watch?v=UL5-fiq_sqk`

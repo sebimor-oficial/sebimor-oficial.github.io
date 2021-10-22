@@ -1,10 +1,10 @@
 ---
-title: Atravesada
+title: Mermelada
 subtitle: ''
-date: '2020-05-22'
-thumb_image: images/atrvsd.jpg
+date: '2021-01-01'
+thumb_image: images/mermelada.jpg
 thumb_image_alt: ''
-type: 'Single'
+type: 'EP'
 image: images/13.jpg
 image_alt: ''
 excerpt: >-
@@ -43,6 +43,6 @@ seo:
     - name: 'twitter:image'
       value: images/hqp.jpg
       relativeUrl: true
-template: video-post
+template: music-post
 ---
-`youtube: https://www.youtube.com/watch?v=xRvhdcu2YYg`
+`youtube: https://www.youtube.com/watch?v=OZyrYpqj2i0`
