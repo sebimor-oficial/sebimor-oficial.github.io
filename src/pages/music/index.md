@@ -1,11 +1,11 @@
 ---
-title: Video
+title: Music
 subtitle: 'Sebi-blog'
 hide_title: false
 col_number: three
 seo:
   type: stackbit_page_meta
-  title: Video
+  title: SEBIMOR
   description: This is the blog page
   extra:
     - name: 'og:type'
@@ -30,5 +30,5 @@ seo:
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
-template: video
+template: music
 ---

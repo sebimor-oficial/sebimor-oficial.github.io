@@ -10,13 +10,7 @@ export default class FormField extends React.Component {
         // let field = _.get(this.props, 'field', null);
         return (
           <div className="form-group form-checkbox">    
-            <h3>Miembros de Sebimor</h3>
-            <ul>
-              <li>Eugenio Gonzales</li>
-              <li>Luna Rivera</li>
-              <li>Oscar Thurin</li>
-              <li>Sebastian Morales</li>
-            </ul>
+            
             {_.get(this.props, 'pageContext.frontmatter.image', null) && (
               <div className="post-image">
                 <img src={withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))} alt={_.get(this.props, 'pageContext.frontmatter.image_alt', null)} />

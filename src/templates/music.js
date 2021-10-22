@@ -16,9 +16,9 @@ export const query = graphql`
   }
 `;
 
-export default class Video extends React.Component {
+export default class Music extends React.Component {
     render() {
-        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/video'), 'frontmatter.date', 'desc');
+        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/music'), 'frontmatter.date', 'desc');
         return (
             <Layout {...this.props}>
             <div className="inner outer video-post-offset">

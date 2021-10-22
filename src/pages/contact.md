@@ -5,8 +5,12 @@ sections:
   - type: section_form
     section_id: contact-form
     content: >-
-      Gracias por visitar nuestro portal virtual. Para cualquier consulta o acercamiento puede contactarnos a través de nuestro correo electrónico.
-      [sebimor.oficial@gmail.com](mailto:sebimor.oficial@gmail.com).
+      ¡Gracias por visitar nuestra página web! Si eres fan o deseas comunicarte con nosotros, envíanos un correo electrónico:
+      
+      [sebimor.oficial@gmail.com](mailto:sebimor.oficial@gmail.com)<br><br>
+      
+      ¡Recuerda seguirnos en tus redes sociales y plataforma de música preferida! Si te gusta lo que hacemos, no dudes en escribirnos un comentario.<br><br>Con mucho amor siempre.<br><br>
+      **-Sebimor**
     form_id: contactForm
     form_action: /thank-you
     form_fields:

@@ -1,8 +1,8 @@
 ---
-title: Si Tú Quieres Más
+title: Hay Que Pichar
 subtitle: ''
-date: '2021-09-26'
-thumb_image: images/stqm.jpg
+date: '2020-09-04'
+thumb_image: images/hqp.jpg
 thumb_image_alt: ''
 type: 'Single'
 image: images/13.jpg
@@ -12,7 +12,7 @@ excerpt: >-
   
 seo:
   type: stackbit_page_meta
-  title: SEBIMOR
+  title: Hay Que Pichiar
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore
@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: SEBIMOR
+      value: Hay Que Pichiar
       keyName: property
     - name: 'og:description'
       value: >-
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: SEBIMOR
+      value: Hay Que Pichiar
     - name: 'twitter:description'
       value: >-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -43,6 +43,6 @@ seo:
     - name: 'twitter:image'
       value: images/hqp.jpg
       relativeUrl: true
-template: video-post
+template: music-post
 ---
-`youtube: https://www.youtube.com/watch?v=3gQieJpF75k`
+`youtube: https://www.youtube.com/watch?v=qYu3pLSKTes`

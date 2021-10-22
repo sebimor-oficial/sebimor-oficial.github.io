@@ -1,7 +1,12 @@
 
 // Font.
+@font-face {
+  font-family: 'Manrope';
+  src: url(../../public/font/Manrope/Manrope-VariableFont_wght.ttf);
+}
+
 $font: (
-  primary: ("Karla",sans-serif),
+  primary: ("Manrope",sans-serif),
   monospace: (Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace)
 );
 

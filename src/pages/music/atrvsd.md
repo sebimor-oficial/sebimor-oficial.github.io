@@ -1,8 +1,8 @@
 ---
-title: Hay Que Pichar
+title: Atravesada
 subtitle: ''
-date: '2020-09-04'
-thumb_image: images/hqp.jpg
+date: '2020-05-22'
+thumb_image: images/atrvsd.jpg
 thumb_image_alt: ''
 type: 'Single'
 image: images/13.jpg
@@ -43,6 +43,6 @@ seo:
     - name: 'twitter:image'
       value: images/hqp.jpg
       relativeUrl: true
-template: video-post
+template: music-post
 ---
-`youtube: https://www.youtube.com/watch?v=qYu3pLSKTes`
+`youtube: https://www.youtube.com/watch?v=xRvhdcu2YYg`
