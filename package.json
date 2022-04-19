@@ -6,6 +6,7 @@
   "scripts": {
     "develop": "gatsby develop",
     "start": "npm run develop",
+	"deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve"
   },
@@ -37,5 +38,8 @@
     "react-script-tag": "^1.1.2",
     "rehype-react": "^3.0.2",
     "sprintf-js": "^1.1.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }

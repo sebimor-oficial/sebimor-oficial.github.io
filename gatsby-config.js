@@ -1,7 +1,7 @@
 const siteMetadata = require('./site-metadata.json')
 
 module.exports = {
-    pathPrefix: '/',
+    pathPrefix: '/sebimor-oficial.github.io',
     siteMetadata: siteMetadata,
     plugins: [
         `gatsby-plugin-react-helmet`,
